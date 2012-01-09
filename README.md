@@ -7,6 +7,7 @@ You can be sure, that your web server was hacked with an code injection.
 
 You can use this for example with an crownjob once a day.
 
+To generate a master-hash-file, call index.php?generateMaster
 
 ## License
 [Filesystem-Hach-Crawler by Marcel Ernst is licensed under a Creative Commons 
